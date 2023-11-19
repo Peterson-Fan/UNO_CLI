@@ -207,11 +207,3 @@ or the player after the next one, respectively;
 - When attacked, a player not playing a special card (2, 3, 7, Q, J) must draw cards from the stock pile, before
 ending its turn;
 
-## Bugs
-
-All detected bugs have been fixed.
-
-## Contributor
-
-Fan Yuheng 523370910168
-
